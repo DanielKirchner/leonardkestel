@@ -26,7 +26,7 @@ Bevor du begreifen kannst, was fär einen Quatsch Leo nun schon wieder von sich 
 
 <img src="img/penismobilwurmloch.jpg">
 
-Es liegt nun an dir, ihn wieder einzufangen und rechtzeitig zur Party zu bringen. Nimmst du die Mähe auf dich?
+Es liegt nun an dir, ihn wieder einzufangen und rechtzeitig zur Party zu bringen. Nimmst du die Mühe auf dich?
 
 
 <a href="/leonardkestel/vinzmotorrad">
