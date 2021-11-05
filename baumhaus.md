@@ -9,8 +9,8 @@ Er hält inne, scheint verwirrt zu sein. Anscheinend sucht er das Baumhaus, was 
 Er ist abgelenkt. Diesmal kriegst du ihn zu fassen, ganz sicher. 
 Du greifst nach ihm und versuchst ihn mit dir zu ziehen.
 
-Doch plätzlich...
+Doch plötzlich...
 
 <a href="/leonardkestel/boomerang">
-<button>plätzlich was?</button>
+<button>plötzlich was?</button>
 </a>
