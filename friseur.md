@@ -3,7 +3,7 @@ Die Haare kann er sich nämlich auch gut genug selbst schneiden.
 
 <img src="img/tonsur.jpg">
 
-Während deine Ruhe genießt, siehst du eine kleine Demo vorbeiziehen.
+Während du deine Ruhe genießt, siehst du eine kleine Demo vorbeiziehen.
 Und mittendrin - steht auch Leo. Er protestiert nun für... Taktzeiten? 
 
 <img src="img/demo.jpg">
