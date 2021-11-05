@@ -11,6 +11,6 @@ Du greifst nach ihm und versuchst ihn mit dir zu ziehen.
 
 Doch pl�tzlich...
 
-<a href="/leonardkestelistweg.github.io/boomerang">
+<a href="/leonardkestel/boomerang">
 <button>plötzlich was?</button>
 </a>

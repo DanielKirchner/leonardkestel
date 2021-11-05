@@ -9,9 +9,9 @@ Nachdem dich Leo erblickt, steht er auf und rennt in den Wald. Auf dem Weg macht
 
 Rennst du ihm hinterher?
 
-<a href="/leonardkestelistweg.github.io/wald">
+<a href="/leonardkestel/wald">
 <button>ja, ich folge ihm in den Wald</button>
 </a>
-<a href="/leonardkestelistweg.github.io/didgeridoo">
+<a href="/leonardkestel/didgeridoo">
 <button>nein, ich warte lieber, bis er wieder kommt...</button>
 </a>

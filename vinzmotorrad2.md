@@ -12,9 +12,9 @@ Steig auf, wir suchen ihn."
 Wohin fahrt ihr als Erstes?
 
 
-<a href="/leonardkestelistweg.github.io/sanmarino">
+<a href="/leonardkestel/sanmarino">
 <button>San Marino</button>
 </a>
-<a href="/leonardkestelistweg.github.io/eindhoven">
+<a href="/leonardkestel/eindhoven">
 <button>Eindhoven</button>
 </a>

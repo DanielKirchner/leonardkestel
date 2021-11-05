@@ -27,9 +27,9 @@ Welchen Kestel willst du heute erleben?
 Stimme hier ab: https://www.strawpoll.me/45833771
 
 Du willst nochmal spielen? Kehre zur ersten Entscheidung zuröck:
-<a href="/leonardkestelistweg.github.io/sanmarino">
+<a href="/leonardkestel/sanmarino">
 <button>San Marino</button>
 </a>
-<a href="/leonardkestelistweg.github.io/eindhoven">
+<a href="/leonardkestel/eindhoven">
 <button>Eindhoven</button>
 </a>

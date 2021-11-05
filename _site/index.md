@@ -29,9 +29,9 @@ Bevor du begreifen kannst, was fär einen Quatsch Leo nun schon wieder von sich 
 Es liegt nun an dir, ihn wieder einzufangen und rechtzeitig zur Party zu bringen. Nimmst du die Mähe auf dich?
 
 
-<a href="/leonardkestelistweg.github.io/vinzmotorrad">
+<a href="/leonardkestel/vinzmotorrad">
 <button>Hopp lass ihn suchen</button>
 </a>
-<a href="/leonardkestelistweg.github.io/partyohneleo">
+<a href="/leonardkestel/partyohneleo">
 <button>scheiß drauf wir feiern ohne ihn</button>
 </a>

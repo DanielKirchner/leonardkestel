@@ -8,9 +8,9 @@ Du vermutest, dass er schnell das Interesse verloren hat und ihm der Sinn mittle
 
 Was machst du als Nächstes?
 
-<a href="/leonardkestelistweg.github.io/konzert">
+<a href="/leonardkestel/konzert">
 <button>Schaue nach ihm auf der n�chstbesten B�hne</button>
 </a>
-<a href="/leonardkestelistweg.github.io/baumhaus">
+<a href="/leonardkestel/baumhaus">
 <button>Schaue nach ihm auf dem n�chstbesten Baum</button>
 </a>

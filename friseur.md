@@ -17,9 +17,9 @@ Du vermutest, dass ihm mittlerweile der Sinn nach k�rperlicher Ert�chtigung 
 Wu suchst du ihn also?
 
 
-<a href="/leonardkestelistweg.github.io/stangenpark">
+<a href="/leonardkestel/stangenpark">
 <button>Im Stangenpark</button>
 </a>
-<a href="/leonardkestelistweg.github.io/baumhaus">
+<a href="/leonardkestel/baumhaus">
 <button>auf einem Baum</button>
 </a>

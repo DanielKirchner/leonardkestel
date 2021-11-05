@@ -13,9 +13,9 @@ Es interessiert dich nicht. "Schnell weg hier, Vinz" - Du willst erstmal deine R
 An welchem Ort würdest du ihn am wenigsten erwarten?
 
 
-<a href="/leonardkestelistweg.github.io/friseur">
+<a href="/leonardkestel/friseur">
 <button>Friseur</button>
 </a>
-<a href="/leonardkestelistweg.github.io/paula">
+<a href="/leonardkestel/paula">
 <button>Pünktlich im Labor zu seinem Experiment-Termin mit Paula</button>
 </a>

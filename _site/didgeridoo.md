@@ -14,9 +14,9 @@ Bevor Leo zum Spielen ansetzt, kannst du dich gerade noch so aufs Motorrad rette
 An welchem Ort wärdest du ihn am wenigsten erwarten?
 
 
-<a href="/leonardkestelistweg.github.io/friseur">
+<a href="/leonardkestel/friseur">
 <button>Friseur</button>
 </a>
-<a href="/leonardkestelistweg.github.io/paula">
+<a href="/leonardkestel/paula">
 <button>Pänktlich im Labor zu seinem Experiment-Termin mit Paula</button>
 </a>

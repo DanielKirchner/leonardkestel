@@ -14,9 +14,9 @@ Also du hinter willst, ist er schon weg.
 
 Was macht er wahrscheinlich als Nächstes?
 
-<a href="/leonardkestelistweg.github.io/stangenpark">
+<a href="/leonardkestel/stangenpark">
 <button>ablenken und Zeit verbringen mit seinem besten Freund</button>
 </a>
-<a href="/leonardkestelistweg.github.io/saufen">
+<a href="/leonardkestel/saufen">
 <button>Frust wegsaufen</button>
 </a>

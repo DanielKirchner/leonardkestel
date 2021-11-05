@@ -4,6 +4,6 @@ Keiner frustet. Alle frustriert. Die Party wird ein Reinfall. Kestel fehlt. Wir 
 
 Willst du dich nicht doch vielleicht auf die Suche begeben?
 
-<a href="/leonardkestelistweg.github.io/vinzmotorrad2">
+<a href="/leonardkestel/vinzmotorrad2">
 <button>na gut</button>
 </a>

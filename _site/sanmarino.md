@@ -8,9 +8,9 @@ Er erwidert aber: "Ich muss zuerst noch ein anderes Geschäft erledigen", steigt
 
 Wo sucht ihr ihn als Nächstes?
 
-<a href="/leonardkestelistweg.github.io/tipico">
+<a href="/leonardkestel/tipico">
 <button>Tipico</button>
 </a>
-<a href="/leonardkestelistweg.github.io/wald">
+<a href="/leonardkestel/wald">
 <button>im Wald</button>
 </a>
