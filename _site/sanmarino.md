@@ -1,4 +1,4 @@
-Du stehst hoch oben auf der Burg in San Marino und siehst, wie sich Kestel gerade von einem zwielichtigen Verkäufer abziehen l�sst.
+Du stehst hoch oben auf der Burg in San Marino und siehst, wie sich Kestel gerade von einem zwielichtigen Verkäufer abziehen lässt.
 "Schau mal her! Neues Trikot!" ruft er die grinsend zu, während er sich das amateurhaft gefälschte Leibchen überzieht.
 
 <img src="img/sanmarinokestel.jpg">

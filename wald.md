@@ -1,7 +1,7 @@
 Du stolpert durch den Wald, schaust dich um, doch kannst ihn einfach nicht ausfindig machen.
 Bis du ein befriedigtes Grunzen hörst.
 
-<img src="img/kiffen.jpg">
+<img src="img/scheißen.jpg">
 
 Leo hockt über dem Waldboden und verrichtet sein Geschäft.
 

@@ -6,8 +6,8 @@ Also auf zur Toilette. Er hängt über der Schüssel und hat sich gerade überge
 Leo scheint vollkommen wasted zu sein. Unansprechbar. Diesmal kriegst du ihn zu fassen, ganz sicher. 
 Du greifst nach ihm und versuchst ihn mit dir zu ziehen.
 
-Doch pl�tzlich...
+Doch plötzlich...
 
 <a href="/leonardkestel/boomerang">
-<button>pl�tzlich was?</button>
+<button>plötzlich was?</button>
 </a>

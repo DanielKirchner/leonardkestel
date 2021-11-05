@@ -10,10 +10,10 @@ Und mittendrin - steht auch Leo. Er protestiert nun für... Taktzeiten?
 
 Warum ist ihm das denn gerade wichtig? Kann er sich nicht einfach zu seiner Party begeben?
 
-Du s�ufzst ein letztes Mal und machst dich wieder auf dem Weg hinterher.
+Du säufzst ein letztes Mal und machst dich wieder auf dem Weg hinterher.
 Jedoch kannst du ihn nicht mehr im Demozug ausfindig machen.
 Sein Interesse ist wohl schnell wieder verfolgen und ihn hat die Lust nach was Neuem gepackt.
-Du vermutest, dass ihm mittlerweile der Sinn nach körperlicher Ert�chtigung steht.
+Du vermutest, dass ihm mittlerweile der Sinn nach körperlicher Ertüchtigung steht.
 Wu suchst du ihn also?
 
 

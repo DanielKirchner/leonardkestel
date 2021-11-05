@@ -1,4 +1,4 @@
-Du hast dich entschieden, ihn zu suchen und verlässt die WG wieder. Aber wo ist er bittesch�n hin? Und wie kommst du dahin?
+Du hast dich entschieden, ihn zu suchen und verlässt die WG wieder. Aber wo ist er bitteschön hin? Und wie kommst du dahin?
 
 Aus der Ferne siehst du Vinz auf dem Motorrad angefahren.
 

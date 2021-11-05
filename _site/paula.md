@@ -9,8 +9,8 @@ Du vermutest, dass er schnell das Interesse verloren hat und ihm der Sinn mittle
 Was machst du als Nächstes?
 
 <a href="/leonardkestel/konzert">
-<button>Schaue nach ihm auf der n�chstbesten B�hne</button>
+<button>Schaue nach ihm auf der nächstbesten Bühne</button>
 </a>
 <a href="/leonardkestel/baumhaus">
-<button>Schaue nach ihm auf dem n�chstbesten Baum</button>
+<button>Schaue nach ihm auf dem nächstbesten Baum</button>
 </a>
