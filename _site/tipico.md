@@ -10,7 +10,7 @@ Also habe ich all mein Geld auf die gesetzt. Wird gut gehen, oder?"
 Eigentlich müsst ihr schnellstmöglich zur Party, doch das willst du dir nun doch nicht entgehen lassen.
 Ihr schaut zu, wie San Marino in einem 0:6 gegen die übermächtigen Farßer Inseln unter die Räder kommt.
 Während du vor Schadenfreude lachst, verlässt Leo niedergeschmettert das Wettbüro.
-Also du hinter willst, ist er schon weg.
+Als du hinter willst, ist er schon weg.
 
 Was macht er wahrscheinlich als Nächstes?
 
