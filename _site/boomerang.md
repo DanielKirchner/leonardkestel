@@ -24,7 +24,7 @@ So vielföltige Interessen. So viel Zeitaufwand. Saufstel, Downstel, Creepstel, 
 Auch wenn dich das sehr flasht, musst du eine Entscheidung treffen. Welchen all der Kestels nimmst du zur Party mit?
 Welchen Kestel willst du heute erleben?
 
-Stimme hier ab: https://www.strawpoll.me/45833771
+Stimme hier ab: <a href="https://www.strawpoll.me/45833771">https://www.strawpoll.me/45833771</a>
 
 Du willst nochmal spielen? Kehre zur ersten Entscheidung zuröck:
 <a href="/leonardkestel/sanmarino">
