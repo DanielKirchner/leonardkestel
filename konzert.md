@@ -9,7 +9,7 @@ Nachdem er sich einst beim Chor versungen hat und auch von den Floating Nutshell
 Er scheint im Flow zu sein. Abgelenkt. Diesmal kriegst du ihn zu fassen, ganz sicher. 
 Du greifst nach ihm und versuchst ihn mit dir zu ziehen.
 
-Doch pl�tzlich...
+Doch plötzlich...
 
 <a href="/leonardkestel/boomerang">
 <button>plötzlich was?</button>

@@ -1,4 +1,4 @@
-Du begibst dich in den Stangenpark und siehst, wie Leo mit Jahrlsn (das "a" ist stumm) dem Lachs abh�ngt.
+Du begibst dich in den Stangenpark und siehst, wie Leo mit Jahrlsn (das "a" ist stumm) dem Lachs abhängt.
 
 <img src="img/stange.jpg">
 

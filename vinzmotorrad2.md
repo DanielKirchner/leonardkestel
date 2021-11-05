@@ -5,7 +5,7 @@ Aus der Ferne siehst du Vinz auf dem Motorrad angefahren.
 <img src="img/vinzaufrad.jpg">
 
 "Hat er dir auch diesen Scheiß erzählt? War wohl doch real rap", sagt Vinz zu dir.
-"Ich konnte ihn leider nicht mehr aufhalten. Aber als Penisbandenmitglied kann ich auch über seine Raumfahrttechnik verf�gen.
+"Ich konnte ihn leider nicht mehr aufhalten. Aber als Penisbandenmitglied kann ich auch über seine Raumfahrttechnik verfügen.
 Steig auf, wir suchen ihn."
 
 
